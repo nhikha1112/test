@@ -28,6 +28,7 @@ const ChangePassword= ({navigation}) => {
             textAlign: 'center',
             left: 30,
             zIndex: 1,
+            fontWeight:'bold',
             backgroundColor: '#fff',
           }}>
           {' '}
@@ -48,6 +49,7 @@ const ChangePassword= ({navigation}) => {
             textAlign: 'center',
             left: 30,
             zIndex: 1,
+            fontWeight:'bold',
             backgroundColor: '#fff',
           }}>
           {' '}
@@ -70,6 +72,7 @@ const ChangePassword= ({navigation}) => {
             textAlign: 'center',
             left: 30,
             zIndex: 1,
+            fontWeight:'bold',
             backgroundColor: '#fff',
           }}>
           {' '}
@@ -101,7 +104,7 @@ const ChangePassword= ({navigation}) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'white',
     alignItems: 'center',
 
   },
